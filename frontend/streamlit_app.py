@@ -60,7 +60,7 @@ if st.button("Generate Prediction"):
     with st.spinner("Processing prediction..."):
         try:
             response = requests.post(
-                "https://heart-disease-prediction-backend-ruxc.onrender.com/predict",
+                "https://heart-disease-prediction-3-35nh.onrender.com/predict",
                 json=input_data
             )
 
