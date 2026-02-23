@@ -1,2 +1,6 @@
-streamlit
-requests
+fastapi
+uvicorn
+scikit-learn
+joblib
+pydantic
+numpy
