@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Heart Disease Prediction System
 
 AI-powered clinical decision support system using Machine Learning and Web Application integration.
