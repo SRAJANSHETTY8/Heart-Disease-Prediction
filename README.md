@@ -185,10 +185,6 @@ This project demonstrates how machine learning can be applied in the healthcare 
 
 ## Live Application
 
-Frontend:  
-https://heart-disease-prediction-frontend-0zze.onrender.com/
+Frontend: https://heart-disease-prediction-frontend-0zze.onrender.com/
 
-Backend API Documentation:  
-https://heart-disease-prediction-backend-ruxc.onrender.com/docs
-
-EOF
+Backend API Documentation:https://heart-disease-prediction-backend-ruxc.onrender.com/docs
